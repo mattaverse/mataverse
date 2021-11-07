@@ -1,1 +1,3 @@
-# Index.md
+# Welcome to the mataverse!
+
+@mataverse_
